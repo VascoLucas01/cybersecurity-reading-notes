@@ -36,3 +36,19 @@ This repository was created to address some topics about cybersecurity learned @
 [Class 04: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-04:-Learning-Journal)
 
 [Class 04: Read Systems Hardening with CIS Standards](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-04:-Read-Systems-Hardening-with-CIS-Standards)
+
+[Class 05: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-05:-Learning-Journal)
+
+[Class 05: Career Partner Power Hour Report](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-05:-Career-Partner-Power-Hour---Report)
+
+[Class 06: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-06:-Learning-Jounal)
+
+[Class 06: Read Cryptography and Data File Encryption](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-06:-Read-Cryptography-and-Data-File-Encryption)
+
+[Class 07: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-07:-Learning-Journal)
+
+[Class 07: Read Protecting Data at Rest with Device Encryption](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-07:-Read-Protecting-Data-at-Rest-with-Device-Encryption)
+
+[Class 08: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-08:-Learning-Journal)
+
+[Class 08: Read Data Loss Prevention and Data Classification](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-08:-Read-Data-Loss-Prevention-and-Data-Classification)
