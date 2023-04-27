@@ -52,3 +52,7 @@ This repository was created to address some topics about cybersecurity learned @
 [Class 08: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-08:-Learning-Journal)
 
 [Class 08: Read Data Loss Prevention and Data Classification](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-08:-Read-Data-Loss-Prevention-and-Data-Classification)
+
+[Class 09: Learning Jounal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-09:-Learning-Journal)
+
+[Class 09: Read Public Key Infrastructure (PKI)](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-09:-Read-Public-Key-Infrastructure-(PKI))
