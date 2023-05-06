@@ -56,3 +56,9 @@ This repository was created to address some topics about cybersecurity learned @
 [Class 09: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-09:-Learning-Journal)
 
 [Class 09: Read Public Key Infrastructure (PKI)](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-09:-Read-Public-Key-Infrastructure-(PKI))
+
+[Class 11: Learning Journal]()
+
+[Class 11: Read Setting up Splunk SIEM](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-11:-Read-Setting-up-Splunk-SIEM)
+
+
