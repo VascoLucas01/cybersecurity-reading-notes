@@ -70,3 +70,5 @@ This repository was created to address some topics about cybersecurity learned @
 [Class 13: Read Reconstructing a Cloud Attack with Splunk](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-13:-Read-Reconstructing-a-Cloud-Attack-with-Splunk)
 
 [Class 14: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-14:-Learning-Journal)
+
+[Class 14: Read Intrusion Detection and Prevention Systems (IDS IPS)](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-14:-Read-Intrusion-Detection-and-Prevention-Systems-(IDS-IPS))
