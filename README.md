@@ -64,3 +64,5 @@ This repository was created to address some topics about cybersecurity learned @
 [Class 12: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-12:-Learning-Journal)
 
 [Class 12: Read Log Analysis with Splunk](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-12:-Read-Log-Analysis-with-Splunk)
+
+[Class 13: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-13:-Learning-Journal)
