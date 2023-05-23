@@ -72,3 +72,9 @@ This repository was created to address some topics about cybersecurity learned @
 [Class 14: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-14:-Learning-Journal)
 
 [Class 14: Read Intrusion Detection and Prevention Systems (IDS IPS)](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-14:-Read-Intrusion-Detection-and-Prevention-Systems-(IDS-IPS))
+
+[Class 16: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-16:-Learning-Journal)
+
+[Class 16: Read Cloud Identity and Access Management (IAM) with AWS](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-16:-Read-Cloud-Identity-and-Access-Management-(IAM)-with-AWS)
+
+[Class 17: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-17:-Learning-Journal)
