@@ -78,3 +78,7 @@ This repository was created to address some topics about cybersecurity learned @
 [Class 16: Read Cloud Identity and Access Management (IAM) with AWS](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-16:-Read-Cloud-Identity-and-Access-Management-(IAM)-with-AWS)
 
 [Class 17: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-17:-Learning-Journal)
+
+[Class 17: Cloud Network Security](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-17:-Cloud-Network-Security)
+
+[Class 18: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-18:-Learning-Journal)
