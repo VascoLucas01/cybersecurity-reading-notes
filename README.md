@@ -109,8 +109,8 @@ This repository was created to address some topics about cybersecurity learned @
 
 [Class 31: Read Malware Detection with YARA Rules](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-31:-Read-Malware-Detection-with-YARA-Rules)
 
-[]()
+[Class 32: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-32:-Learning-Journal)
 
-[]()
+[Class 32: Read Malware Traffic Analysis with Wireshark](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-32:-Read-Malware-Traffic-Analysis-with-Wireshark)
 
 
