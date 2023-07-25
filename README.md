@@ -96,3 +96,7 @@ This repository was created to address some topics about cybersecurity learned @
 [Class 27: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-27:-Learning-Journal)
 
 [Class 27: Read Persistence](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-27:-Read-Persistence)
+
+[Class 28: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-28:-Learning-Journal)
+
+[Class 28: Read Log Clearing](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-28:-Read-Log-Clearing)
