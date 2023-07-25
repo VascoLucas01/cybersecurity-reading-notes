@@ -129,3 +129,25 @@ This repository was created to address some topics about cybersecurity learned @
 
 [Class 37: Read Automated AppSec with ZAP](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-37:-Read-Automated-AppSec-with-ZAP)
 
+[Class 38: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-38:-Learning-Journal)
+
+[Class 38: Attacking Juice Shop with Burp Suite](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-38:-Attacking-Juice-Shop-with-Burp-Suite)
+
+[Class 39: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-39:-Learning-Journal)
+
+[Class 39: Read SQLi with Burp Suite, WebGoat](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-39:-Read-SQLi-with-Burp-Suite,-WebGoat)
+
+[Class 40: Reviews](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-40:-Reviews)
+
+[Class 41: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-41:-Learning-Journal)
+
+[Class 41: Read Reconnaissance](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-41:-Read-Reconnaissance)
+
+[Class 42: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-42:-Learning-Journal)
+
+[Class 42: Read Pass the Hash with Mimikatz](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-42:-Read-Pass-the-Hash-with-Mimikatz)
+
+[Class 43: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-43:-Learning-Journal)
+
+[Class 43: Read Sniffing and Evasion](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-43:-Read-Sniffing-and-Evasion)
+
