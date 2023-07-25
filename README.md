@@ -100,3 +100,17 @@ This repository was created to address some topics about cybersecurity learned @
 [Class 28: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-28:-Learning-Journal)
 
 [Class 28: Read Log Clearing](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-28:-Read-Log-Clearing)
+
+[Class 29: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-29:-Learning-Journal)
+
+[Class 29: Read Modeling a Web Application](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-29:-Read-Modeling-a-Web-Application)
+
+[Class 31: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-31:-Learning-Journal)
+
+[Class 31: Read Malware Detection with YARA Rules](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-31:-Read-Malware-Detection-with-YARA-Rules)
+
+[]()
+
+[]()
+
+
