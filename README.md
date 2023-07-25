@@ -92,3 +92,7 @@ This repository was created to address some topics about cybersecurity learned @
 [Class 26: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-26:-Learning-Journal)
 
 [Class 26: Read Remote Code Execution](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-26:-Read-Remote-Code-Execution)
+
+[Class 27: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-27:-Learning-Journal)
+
+[Class 27: Read Persistence](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-27:-Read-Persistence)
