@@ -113,4 +113,10 @@ This repository was created to address some topics about cybersecurity learned @
 
 [Class 32: Read Malware Traffic Analysis with Wireshark](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-32:-Read-Malware-Traffic-Analysis-with-Wireshark)
 
+[Class 33: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-33:-Learning-Journal)
 
+[Class 33: Read Threat Hunting with Security Onion](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-33:-Read-Threat-Hunting-with-Security-Onion)
+
+[]()
+
+[]()
