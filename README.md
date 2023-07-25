@@ -117,6 +117,15 @@ This repository was created to address some topics about cybersecurity learned @
 
 [Class 33: Read Threat Hunting with Security Onion](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-33:-Read-Threat-Hunting-with-Security-Onion)
 
-[]()
+[Class 34: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-34:-Learning-Journal)
 
-[]()
+[Class 34: Read Forensics Investigation with Autopsy](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-34:-Read-Forensics-Investigation-with-Autopsy)
+
+[Class 36: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-36:-Learning-Journal)
+
+[Class 36: Read XSS with w3af, DVWA](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-36:-Read-XSS-with-w3af,-DVWA)
+
+[Class 37: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-37:-Learning-Journal)
+
+[Class 37: Read Automated AppSec with ZAP](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-37:-Read-Automated-AppSec-with-ZAP)
+
