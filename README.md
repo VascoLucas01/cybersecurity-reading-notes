@@ -88,3 +88,7 @@ This repository was created to address some topics about cybersecurity learned @
 [Class 19: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-19:-Learning-Journal)
 
 [Class 19: Read Cloud Detective Controls](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-19:-Read-Cloud-Detective-Controls)
+
+[Class 26: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-26:-Learning-Journal)
+
+[Class 26: Read Remote Code Execution](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-26:-Read-Remote-Code-Execution)
