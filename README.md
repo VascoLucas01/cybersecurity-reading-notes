@@ -151,3 +151,7 @@ This repository was created to address some topics about cybersecurity learned @
 
 [Class 43: Read Sniffing and Evasion](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-43:-Read-Sniffing-and-Evasion)
 
+[Class 44: Learning Journal](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-44:-Learning-Journal)
+
+[Class 44: Read Exploitation with Metasploit](https://github.com/VascoLucas01/cybersecurity-reading-notes/wiki/10-Class-44:-Read-Exploitation-with-Metasploit)
+
